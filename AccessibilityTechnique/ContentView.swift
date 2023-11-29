@@ -15,6 +15,9 @@ struct ContentView: View {
                     NavigationLink("IdentifyingViewsWithLabels") {
                         IdentifyingViewsWithLabels()
                     }
+                    NavigationLink("HidingAndGroupingAccessibilityData") {
+                        HidingAndGroupingAccessibilityData()
+                    }
                 }
             }
             .padding()
