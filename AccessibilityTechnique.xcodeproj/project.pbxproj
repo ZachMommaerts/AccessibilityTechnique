@@ -13,6 +13,7 @@
 		412EA9322B17B5F5002DC7BD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 412EA9312B17B5F5002DC7BD /* Preview Assets.xcassets */; };
 		412EA9392B17B6B7002DC7BD /* IdentifyingViewsWithLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EA9382B17B6B7002DC7BD /* IdentifyingViewsWithLabels.swift */; };
 		412EA93D2B17B966002DC7BD /* HidingAndGroupingAccessibilityData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EA93C2B17B966002DC7BD /* HidingAndGroupingAccessibilityData.swift */; };
+		412EA93F2B17BB3F002DC7BD /* ReadingValueOfControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412EA93E2B17BB3F002DC7BD /* ReadingValueOfControls.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		412EA9312B17B5F5002DC7BD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		412EA9382B17B6B7002DC7BD /* IdentifyingViewsWithLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifyingViewsWithLabels.swift; sourceTree = "<group>"; };
 		412EA93C2B17B966002DC7BD /* HidingAndGroupingAccessibilityData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HidingAndGroupingAccessibilityData.swift; sourceTree = "<group>"; };
+		412EA93E2B17BB3F002DC7BD /* ReadingValueOfControls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingValueOfControls.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				412EA92C2B17B5F3002DC7BD /* ContentView.swift */,
 				412EA9382B17B6B7002DC7BD /* IdentifyingViewsWithLabels.swift */,
 				412EA93C2B17B966002DC7BD /* HidingAndGroupingAccessibilityData.swift */,
+				412EA93E2B17BB3F002DC7BD /* ReadingValueOfControls.swift */,
 				412EA92E2B17B5F5002DC7BD /* Assets.xcassets */,
 				412EA9302B17B5F5002DC7BD /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 				412EA92D2B17B5F3002DC7BD /* ContentView.swift in Sources */,
 				412EA9392B17B6B7002DC7BD /* IdentifyingViewsWithLabels.swift in Sources */,
 				412EA93D2B17B966002DC7BD /* HidingAndGroupingAccessibilityData.swift in Sources */,
+				412EA93F2B17BB3F002DC7BD /* ReadingValueOfControls.swift in Sources */,
 				412EA92B2B17B5F3002DC7BD /* AccessibilityTechniqueApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

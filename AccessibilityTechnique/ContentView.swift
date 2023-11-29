@@ -18,6 +18,9 @@ struct ContentView: View {
                     NavigationLink("HidingAndGroupingAccessibilityData") {
                         HidingAndGroupingAccessibilityData()
                     }
+                    NavigationLink("ReadingValueOfControls") {
+                        ReadingValueOfControls()
+                    }
                 }
             }
             .padding()
